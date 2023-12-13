@@ -13,7 +13,7 @@ $dal = new ebook();
 switch($_GET["action"])
 {
 	case 'getall':
-		$message ="YY";
+		$message ="Y333333333333333Y";
 		break;
 	
 	case 'insert':
